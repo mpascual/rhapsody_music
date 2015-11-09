@@ -1,12 +1,12 @@
 creds:
-  api_key: <required>
-  api_ecret: <required>
+  api_key: <optional>
+  api_secret: <optional>
   access_token: <required>
   refresh_token: <optional>
   expires_in: <optional>
   token_type: <optional>
   username: <optional>
-  first_name:
-  last_name:
+  first_name: <optional>
+  last_name: <optional>
   guid: <optional>
   catalog: US

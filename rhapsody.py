@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# Fetch playlist from rhapsody.com music service and all songs, write to a file
+# Fetch playlist from rhapsody.com music service and all songs
 #
 
 import json
